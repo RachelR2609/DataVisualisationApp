@@ -5,3 +5,4 @@ All interactions are through keyboard inputs.
 Interactive features include: zoom, pan and rotation of the map, filtering through data and switching between menue page and main page.
 
 
+![uk_population_visulisation 11_06_2021 12_09_06](https://user-images.githubusercontent.com/85016545/121677628-09a72000-caae-11eb-8852-19fb04724e48.png)
